@@ -356,7 +356,7 @@ msgpack==1.0.2
     # via
     #   -c ../requirements.txt
     #   distributed
-msrest==0.6.19
+msrest==0.6.21
     # via azure-storage-blob
 mxnet==1.7.0.post1
     # via -r requirements_tune.in
